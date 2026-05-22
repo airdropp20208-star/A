@@ -1,0 +1,6 @@
+{
+  "name": "Hermes Agent",
+  "description": "An autonomous screen agent that can view the phone screen and perform taps, swipes, and text typing system-wide using generative AI without any ADB or root requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
